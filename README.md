@@ -22,7 +22,7 @@
 </picture>
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=heatblast111&icon=2&color=10)](https://visitcount.itsvg.in)
